@@ -1,2 +1,2 @@
-module reactionTimer {
+module reactiontimer {
 }
